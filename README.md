@@ -1,16 +1,26 @@
-### Hi there 👋
+# BaronViper | Fullstack Developer
 
-<!--
-**BaronViper/BaronViper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🐱‍👤About Me
+- 💻Bachelor of Science, Computer Science
+- 🎂17 Years Old
+- 🎨3D and 2D Artist
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤖Programming Languages
+- Python
+- HTML5
+- CSS3
+- SQL
+
+## 🛠Other
+- Git
+- Bootstrap
+- Selenium
+- Flask
+- Postman
+
+## 🚧Projects in Progress
+- Discord Bots
+- Games
+- Data Analysis
+- Websites
