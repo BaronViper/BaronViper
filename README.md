@@ -1,10 +1,11 @@
-# BaronViper | Fullstack Developer
+# Jeremy Tan | Fullstack Developer
 
 
 ## 🐱‍👤About Me
 - 💻Bachelor of Science, Computer Science
-- 🎂17 Years Old
+- 🎂18 Years Old
 - 🎨3D and 2D Artist
+- 🎧Musician
 
 ## 🤖Programming Languages
 - Python
