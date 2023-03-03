@@ -3,9 +3,9 @@
 
 ## 🐱‍👤About Me
 - 💻Bachelor of Science, Computer Science
-- 🎂18 Years Old
-- 🎨3D and 2D Artist
-- 🎧Musician
+- 18 Years Old
+- 3D and 2D Artist
+- Musician
 
 ## 🤖Programming Languages
 - Python
@@ -21,7 +21,7 @@
 - Postman
 
 ## 🚧Projects in Progress
-- Discord Bots
-- Games
+- Windows Applications
+- Automation Scripts
 - Data Analysis
 - Websites
