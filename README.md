@@ -6,16 +6,16 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" /> Technical Skills
 - Python
-- HTML5
-- CSS3
-- SQL
+- JavaScript
+- HTML
+- CSS
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Pick.png" alt="Hammer and Pick" width="25" height="25" /> Other
 - Git
+- Flask
+- Express
 - Bootstrap
 - Selenium
-- Flask
-- Postman
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Construction.png" alt="Construction" width="25" height="25" /> Projects
 - Windows Applications
