@@ -2,22 +2,21 @@
 
 ## About Me
 - Bachelor of Science, Computer Science (2026)
-- 19 Years Old
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" /> Technical Skills
+## Technical Skills
 - Python
 - JavaScript
 - HTML
 - CSS
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Pick.png" alt="Hammer and Pick" width="25" height="25" /> Other
+## Other
 - Git
 - Flask
 - Express
 - Bootstrap
 - Selenium
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Construction.png" alt="Construction" width="25" height="25" /> Projects
+## Projects
 - Windows Applications
 - Automation Scripts
 - Data Analytics
